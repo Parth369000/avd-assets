@@ -1,6 +1,6 @@
-# AVD Assets (AssetTrackr)
+# AssetTrackr
 
-AVD Assets (AssetTrackr) is a Flutter application for managing and tracking assets within an organization. The app supports user authentication, role- and department-based access, product/asset management, filtering, media support, and a responsive UI with light/dark themes.
+AssetTrackr is a Flutter application for managing and tracking assets within an organization. The app supports user authentication, role- and department-based access, product/asset management, filtering, media support, and a responsive UI with light/dark themes.
 
 ## Features
 
